@@ -10,7 +10,7 @@
             "banner_id": 1,
             "title": "WHERE WE WORK",
             "desc":"Here is our progress we have achieved since we started working in 2015",
-            "content": "With the help of our partners, we implemented numerous projects that served millions with access to safe and clean water. Our mission is to end the global water crisis, and with your help we are able to fund various projects in different countries. We invite you to learn about how your donation changes lives by reading more about how we work, where we work and the people we empower",
+            "content": "With the help of our partners, we implemented numerous projects that served millions with access to safe and clean water. Our mission is to end the global water crisis, and with your help we are able to fund various projects in different countries. We invite you to learn about how your donation changes lives by reading more about how we work, where we work and the people we empower.",
             "img_type":"/mobile_website_content_api/static/images/Our_impact/Rectangle_672.png"
           }
         ],
@@ -47,7 +47,7 @@
            "title": "",
            "img":"/mobile_website_content_api/static/images/Our_impact/give-life.png",
            "dec":"CLEAN WATER CHANGES EVERYTHING. WATER CONNECTS EVERY ASPECT OF LIFE",
-           "content":"Access to safe water and sanitation turns time spent into time saved, it allows communities more time to pursue education and work opportunities, and it also help improve their health and break the cycle of poverty"
+           "content":"Access to safe water and sanitation turns time spent into time saved, it allows communities more time to pursue education and work opportunities, and it also help improve their health and break the cycle of poverty."
 
         }
         ],
